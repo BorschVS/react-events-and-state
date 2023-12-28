@@ -1,0 +1,43 @@
+.Dropdown {
+  display: block;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 40px;
+
+  position: relative;
+  border: 1px solid grey;
+}
+
+.Dropdown__toggle {
+  width: 100%;
+
+  background-color: rgb(242, 253, 246);
+  border: 1px solid transparent;
+  padding: 5px;
+  text-align: right;
+}
+
+.Dropdown__toggle:hover {
+  background-color: #d8f8ec;
+  color: rgb(87, 161, 161);
+}
+
+.Dropdown__toggle:active {
+  background-color: #b8ecd9;
+  color: rgb(59, 223, 223);
+}
+
+.Dropdown__menu {
+  position: absolute;
+  top: 100%;
+
+  width: 100%;
+  padding: 10px 0;
+
+  text-align: center;
+
+  background-color: teal;
+  color: antiquewhite;
+}
