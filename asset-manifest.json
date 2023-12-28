@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-events-and-state/static/css/main.c30c12c9.css",
+    "main.js": "/react-events-and-state/static/js/main.e1690320.js",
+    "index.html": "/react-events-and-state/index.html",
+    "main.c30c12c9.css.map": "/react-events-and-state/static/css/main.c30c12c9.css.map",
+    "main.e1690320.js.map": "/react-events-and-state/static/js/main.e1690320.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c30c12c9.css",
+    "static/js/main.e1690320.js"
+  ]
+}
